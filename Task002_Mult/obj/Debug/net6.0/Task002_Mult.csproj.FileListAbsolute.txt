@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\bin\Debug\net6.0\Task002_Mult.exe
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\bin\Debug\net6.0\Task002_Mult.deps.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\bin\Debug\net6.0\Task002_Mult.runtimeconfig.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\bin\Debug\net6.0\Task002_Mult.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\bin\Debug\net6.0\Task002_Mult.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\refint\Task002_Mult.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\Task002_Mult.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task002_Mult\obj\Debug\net6.0\ref\Task002_Mult.dll

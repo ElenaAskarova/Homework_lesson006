@@ -1,0 +1,15 @@
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\bin\Debug\net6.0\Task001_Subtr.exe
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\bin\Debug\net6.0\Task001_Subtr.deps.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\bin\Debug\net6.0\Task001_Subtr.runtimeconfig.json
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\bin\Debug\net6.0\Task001_Subtr.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\bin\Debug\net6.0\Task001_Subtr.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.csproj.AssemblyReference.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.GeneratedMSBuildEditorConfig.editorconfig
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.AssemblyInfoInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.AssemblyInfo.cs
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.csproj.CoreCompileInputs.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\refint\Task001_Subtr.dll
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.pdb
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\Task001_Subtr.genruntimeconfig.cache
+G:\8 Лена\GeekBrains\Знакомство с языками программировнаия\HomeworkLesson006\Task001_Subtr\obj\Debug\net6.0\ref\Task001_Subtr.dll
